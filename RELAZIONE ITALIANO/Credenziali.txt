@@ -1,0 +1,3 @@
+--Connettersi ad Oracle
+user: amministratore
+password: palestra
